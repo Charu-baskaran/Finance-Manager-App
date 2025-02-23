@@ -1,6 +1,7 @@
 ## Finance-Manager-App
 
-A simple finance management app built with React, Recharts, and Bootstrap. It helps users track income and expenses, view analytics, and manage transactions efficiently.
+# Frontend
+A simple finance management app (frontend) built with React, Recharts, and Bootstrap. It helps users track income and expenses, view analytics, and manage transactions efficiently.
 
 # Features
 - User Authentication : Login/logout and Signup functionality.
