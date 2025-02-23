@@ -14,3 +14,6 @@ A simple finance management app (frontend) built with React, Recharts, and Boots
 - Recharts : Data visualization.
 - Bootstrap : Styling and layout.
 - React Router : Navigation.
+  
+## Watch the video added 
+- finance-manager.mp4
